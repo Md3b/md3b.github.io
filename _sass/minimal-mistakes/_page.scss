@@ -21,6 +21,9 @@
 
 body {
   display: -webkit-box;
+      direction: ltr;
+  text-align:right;
+
   display: -ms-flexbox;
   display: flex;
   min-height: 100vh;
